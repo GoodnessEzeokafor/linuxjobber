@@ -45,4 +45,4 @@ class ScrumyHistory(models.Model):
 
 
 
-#goal_name, goal_id, created_by, moved_by, owner
+# goal_name, goal_id, created_by, moved_by, owner
