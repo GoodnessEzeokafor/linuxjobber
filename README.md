@@ -1,5 +1,5 @@
 # LINUXJOBBER INTERNSHIP CHALLANGE
-Student Management System
+LinuxJobber
 =============
 ## DESCRIPTION
 App built during linuxjobber internship
